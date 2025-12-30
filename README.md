@@ -1,4 +1,4 @@
 # Connect-center
 This is my first Project in git
 <br>
-Auther :- Khagendra Bist
+Auther :- Khagendra (Project manager)
